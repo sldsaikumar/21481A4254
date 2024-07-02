@@ -1,7 +1,5 @@
 # 21481A4254
 
-code:
-
 
 outputs:
 
